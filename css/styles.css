@@ -1,0 +1,125 @@
+/* GLOBAL STYLES */
+
+
+body{
+
+   
+    width:70%;
+    margin:1rem auto 1rem auto;
+    
+    padding:1rem;
+    border:2px solid #455aa3;
+
+    
+ 
+}
+
+ 
+
+h2{
+
+    color: #455aa3;
+}
+
+h3{
+
+   font-size:1.2rem;
+   font-weight: 500;
+}
+
+hr{
+    border:1px solid black;
+}
+
+a{
+
+    color:rgb(35, 161, 155)
+}
+
+
+
+/* sections */
+#header
+
+{text-align: center;
+background-color: rgb(143,156,200);color:white;
+padding:2rem;
+
+}
+
+img{border-radius: 50%;}
+
+
+#work-skill{
+
+    margin: 2rem 0 2rem 0;
+    
+    
+}
+
+
+/* fontawesome icons */
+
+.icon {
+    color:rgb(69,90,163);;
+    margin-right: 1rem;
+  }
+
+
+  .interest{
+      margin-top:2rem;
+  }
+
+.int-butt{
+    margin:0.5rem;
+
+}
+
+  .skill-butt{
+      margin:0.5rem;
+      background-color: rgb(143,156,200);
+  }
+
+
+
+  .education{
+
+    
+    margin-top:2rem;
+  }
+
+  
+
+
+
+
+
+
+
+
+
+
+    
+
+  @media screen and (max-width: 720px) {
+    
+
+    #details{
+        text-align: left;
+    }
+
+    #header { display:block;} 
+
+
+body{
+    width:100%;
+    background-color: rgb(248, 248, 248);
+}
+
+
+  }
+
+
+
+
+  
