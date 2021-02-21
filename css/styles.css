@@ -74,12 +74,22 @@ img{border-radius: 50%;}
   }
 
 
-  @media screen and (max-width: 370px) {
+
+  @media screen and (max-width: 350px) {
     
 
     #details{
-        text-align: center;
+        text-align: left;
     }
+
+.icon{
+   
+    
+    display:none;
+
+}
+
+
   }
 
 
