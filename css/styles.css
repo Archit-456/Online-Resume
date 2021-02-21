@@ -1,0 +1,86 @@
+/* GLOBAL STYLES */
+
+
+body{
+
+   margin:4rem; 
+    line-height: 2;
+ 
+}
+
+h1, h2{
+
+    color: rgb(69,90,163);
+}
+
+h3{
+
+   font-size:1.2rem;
+   font-weight: 500;
+}
+
+
+a{
+
+    color:rgb(64,184,178)
+}
+
+
+
+/* sections */
+#header{text-align: center;
+
+}
+
+img{border-radius: 50%;}
+
+
+#work-skill{
+
+    margin: 2rem 0 2rem 0;
+    
+    
+}
+
+
+/* fontawesome icons */
+
+.icon {
+    color:rgb(69,90,163);;
+    margin-right: 20px;
+  }
+
+
+  .interest{
+      margin-top:2rem;
+  }
+
+.int-butt{
+    margin:0.5rem;
+
+}
+
+  .skill-butt{
+      margin:0.5rem;
+      background-color: rgb(143,156,200);
+  }
+
+
+
+  .education{
+
+    
+    margin-top:2rem;
+  }
+
+
+  @media screen and (max-width: 720px) {
+    
+
+    #details{
+        text-align: justify;
+    }
+  }
+
+
+  
